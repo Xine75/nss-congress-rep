@@ -1,0 +1,59 @@
+body {
+    background-color: blue;
+    color: whitesmoke
+}
+
+.name {
+    width: 500px;
+    font-size: 30px;
+    border: 50px;
+    text-align: center;
+}
+.basic__info {
+    margin: 20px;
+    width: 500px;
+   text-align: center;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+
+}
+
+.img{
+    margin: 5px;
+    
+}
+.district{
+    font-size: 25px;
+    margin: 20px;
+}
+
+.party {
+    color: greenyellow;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.committees {
+    width: 500px;
+    border: 2px solid greenyellow;
+    padding: 5px 10px;
+    margin: 5px 0;
+}
+
+.legislation__enacted {
+    width: 500px;
+    border: 2px solid greenyellow;
+    margin: 5px 0;
+    padding: 5px 10px;
+}
+
+ul {
+    color: red;
+}
+a {
+    color: red;
+
+}
+
+
